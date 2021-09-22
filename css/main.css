@@ -141,7 +141,7 @@ main .col-2 .image::after {
     margin-top: 40px;
     text-align: center;
   }
-  main .col-1 .stats ul li p {
-
+  main .col-1 .stats ul li{
+    margin-top: 25px;
   }
 }
